@@ -1,7 +1,8 @@
 {
   "summary": {
     "title": "TP",
-    "owner": "PMW"
+    "owner": "PMW",
+    "description": "Test"
   },
   "detail": {
     "contributors": [],
